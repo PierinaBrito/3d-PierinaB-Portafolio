@@ -1,5 +1,14 @@
 ![Screenshot 2024-06-13 150500](https://github.com/PierinaBrito/3d-PierinaB-Portafolio/assets/77765628/aaf99fd8-ae0e-4903-b180-714d3452f057)
 
+## <a name="tech-tools">⚙️ Tech Tools </a>
+
+- React.js
+- Three.js
+- React Three Fiber
+- React Three Drei
+- GLB 3D
+- Vite
+- Tailwind CSS
 
 # React + Vite
 
